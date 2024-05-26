@@ -34,9 +34,6 @@ In addition to my technical skills, I am a collaborative and adaptable team play
 
 [![My Skills](https://skillicons.dev/icons?i=git,npm,webpack,docker,postman,unity,visualstudio,vscode)](https://skillicons.dev)
 
-### ✨ Visitors 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Malinda28" alt="Malinda28" /> </p>
 
 ### 📊 Profile stats
 
